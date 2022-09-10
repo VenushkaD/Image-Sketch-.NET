@@ -1,5 +1,5 @@
 # Image-Sketch.NET
-Converts an image into text then outputs the file .txt format</br>
+Converts an image into text then outputs the file in .txt format</br>
 <i>Note: Works best for sketch images</i>
 
 <b>Input</b></br>
